@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.text-time{
+    color: red;
+    text-align: end;
+}
+
+.card-group{
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+
+}
+
+
+
+.card{
+    margin: 20px;
+}
+
